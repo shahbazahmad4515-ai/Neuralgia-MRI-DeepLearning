@@ -1,0 +1,9 @@
+tensorflow
+nibabel
+numpy
+pandas
+opencv-python
+scikit-learn
+matplotlib
+seaborn
+openneuro-py
